@@ -1,0 +1,59 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "My First Notebook",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMgRwv1fQMMFe64TctBxnt5",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/wpp5/my-notebooks/blob/main/My_First_Notebook.ipynb%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Ek0MncgEzN3D",
+        "outputId": "5d406592-5556-4b71-a20b-1ae9d75aa5b9"
+      },
+      "source": [
+        "# This is some example python code\n",
+        "# These lines starting with # are \"comments\"\n",
+        "# Don't be confused that # means something different in .md files than .py files\n",
+        "\n",
+        "print(\"HELLO WORLD!\")\n",
+        "\n",
+        "x = 2 + 2\n",
+        "print(x)\n"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "HELLO WORLD!\n",
+            "4\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
